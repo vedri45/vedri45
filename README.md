@@ -1,4 +1,4 @@
-- 👋 I’m currently working at Genesis Digital, based on Indonesia.
+- 👋 I’m currently working as Web Designer at Genesis Digital, based on Indonesia.
 - 👀 I’m interested in Graphic Design.
 - 🌱 I’m currently learning Front-End Development.
 - 💞️ I’m looking to collaborate on some projects.
